@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://miro.medium.com/max/437/1*1eDg4Pi8MzQuQnHvXA5t7A.png",
+    "title": "Ansible",
+    "date": "12-05-2021",
+    "ratings": [4, 4, 4, 4, 4, 5],
+    "likes": 5,
+    "dislikes": 1
+  },
+  {
+    "id": 2,
+    "image": "https://sekurak.pl/wp-content/uploads/2020/07/14098888813_bec60d595d_o.png",
+    "title": "Docker",
+    "date": "12-04-2022",
+    "ratings": [3, 2, 4, 3, 4, 3],
+    "likes": 1,
+    "dislikes": 3
+  },
+  {
+    "id": 3,
+    "image": "https://itsilesia.com/wp-content/uploads/2018/09/Kubernetes-logo.png",
+    "title": "Kubernetes",
+    "date": "13-04-2022",
+    "ratings": [1, 1, 1, 3, 4, 5],
+    "likes": 1,
+    "dislikes": 0
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDzaQeEO9Cyf_1Xh-i9xDL4_o5JVPdMOOsCqN4DzImEYVZYkNIv9c_nY6O7YIfmNse34&usqp=CAU",
+    "title": "Zabbix",
+    "date": "01-04-2022",
+    "ratings": [4],
+    "likes": 0,
+    "dislikes": 0
+  },
+  {
+    "id": 5,
+    "image": "https://www.inventivehosting.co.uk/images/icons/sh/cloudlinux.png",
+    "title": "CloudLinux",
+    "date": "11-04-2022",
+    "ratings": [4, 4, 5],
+    "likes": 1,
+    "dislikes": 1
+  },
+  {
+    "id": 6,
+    "image": "https://pngimage.net/wp-content/uploads/2018/06/nessus-logo-png.png",
+    "title": "Nessus",
+    "date": "03-04-2022",
+    "ratings": [],
+    "likes": 0,
+    "dislikes": 0
+  },
+  {
+    "id": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB1Cyq1Ai-bYmwQFjEJH5E36CxRm5IsDqU5wOUndSOkeCjRimXUK8eQUK-ROBcoYcrtwg&usqp=CAU",
+    "title": "Jenkins",
+    "date": "05-04-2022",
+    "ratings": [1, 1, 1, 1],
+    "likes": 0,
+    "dislikes": 4
+  },
+  {
+    "id": 8,
+    "image": "http://www.nginx.com/wp-content/uploads/2020/07/nginx-default_featured-2020.png",
+    "title": "nginx",
+    "date": "12-04-2022",
+    "ratings": [5],
+    "likes": 1,
+    "dislikes": 0
+  },
+  {
+    "id": 9,
+    "image": "https://itfocus.pl/wp-content/uploads/2015/12/redhat-logo-cloud_0.jpe",
+    "title": "RedHat",
+    "date": "09-04-2022",
+    "ratings": [5, 5],
+    "likes": 2,
+    "dislikes": 0
+  },
+  {
+    "id": 10,
+    "image": "https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs",
+    "title": "Proxmox",
+    "date": "12-04-2022",
+    "ratings": [1],
+    "likes": 0,
+    "dislikes": 1
+  }
+]
